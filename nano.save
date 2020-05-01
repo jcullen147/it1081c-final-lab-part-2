@@ -1,0 +1,7 @@
+[global]
+netbios name = cullenjf-lin
+workgroup = workgroup
+[angular-app]
+path = /angular-app/src/app
+readonly = no
+
